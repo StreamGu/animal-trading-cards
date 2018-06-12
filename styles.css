@@ -1,0 +1,39 @@
+/* 添加 CSS */
+body{
+	width: 320px;
+	border: groove;
+	border-width:thin;
+	box-shadow: 10px 10px 10px #ccc;
+	padding: 10px 10px 10px 10px;
+}
+
+h3{
+	font-weight: bold;
+	padding: 0px 0px 0px 10px;
+}
+
+img{
+	width: 300px;
+	height: 200px;
+	margin: 10px 10px 10px 10px;
+}
+
+.introduce{
+	border: groove;
+	border-width:thin;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+.anecdote{
+	font-style: italic;
+}
+
+span{
+	font-weight: bold;
+}
+
+ul{
+	list-style-type: none;
+    padding: 0px;
+}
